@@ -45,8 +45,8 @@ Sikit-learn version 0.21.3.
 nltk version 3.4.5.
 
 ### Running instructions
-place the whole folder on a desired dirction,(for example Document folder)  
-Open ubuntu terminal, then change dirctory to folder location (for example $ cd IMDB)  
-make sure all data set in folder called 'IMDb' and the structure of dataset folder as provided in coursework
+Place the whole folder on a desired directory,(for example Document folder)  
+Open ubuntu terminal, then change directory to folder location (for example $ cd IMDB)  
+Mke sure all data set in folder called 'IMDb' and the structure of dataset folder as provided in coursework
 then run  code py : $ python c1888251.py   
 results of training, development and training will appear on terminal.  

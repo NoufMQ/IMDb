@@ -40,9 +40,11 @@ rope >=0.9.4      :  0.14.0 (OK)
 sphinx >=0.6.6    :  2.2.0 (OK)  
 sympy >=0.7.3     :  1.4 (OK)  
 
-the project was coded by Spyder3.3.6
+Project was coded by Spyder3.3.6
+Sikit-learn version 0.21.3.
+nltk version 3.4.5.
 
-### Running
+### Running instructions
 place the whole folder on a desired dirction,(for example Document folder)  
 Open ubuntu terminal, then change dirctory to folder location (for example $ cd IMDB)  
 make sure all data set in folder called 'IMDb' and the structure of dataset folder as provided in coursework
